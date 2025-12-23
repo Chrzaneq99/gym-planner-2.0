@@ -1,0 +1,16 @@
+# Ignore local Supabase configuration (contains secret keys)
+supabase.config.js
+
+# Ignore Firebase configuration (if used)
+firebase.config.js
+
+# Node modules (if you use npm/node)
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
